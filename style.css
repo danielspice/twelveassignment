@@ -1,0 +1,93 @@
+body{
+    background-color: #f0f0f0;
+}
+
+.container{
+   max-width: 800px;
+   margin: 100px auto;
+   border-radius: 10px;
+}
+.container-three{
+    background-color: white;
+    border-radius: 4px;
+    height: 200px;
+    padding-top: 30px;
+    border: 1px solid white;
+
+}
+.Join{
+    color: #6cb8b8;
+}
+
+.day{
+    color: #c7d681;
+    margin-left: 40px;
+}
+
+.main{
+    color: #b3b7c2;
+    margin-left: 40px;
+}
+
+.container-below{
+    /* border: 1px solid green; */
+    display: flex;
+
+}
+
+.container-one{
+    /* border: 1px solid red; */
+    background-color: #4abebd;
+    width: 400px;
+    border-radius: 5px;
+}
+
+h4{
+    color: white;
+    margin-left: 40px;
+}
+
+.meta{
+    color: lightgrey;
+    margin-left: 40px;
+}
+.container-two{
+    /* border: 1px solid black; */
+    background-color: #2bb3b1;
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+h3{
+    color: white;
+    margin-left: 40px;
+}
+
+.per{
+    display: flex;
+    align-items: center;
+}
+.month{
+    color: #5bd1d1;
+    margin-left: 10px;
+
+}
+h1{
+    color: white;
+    margin-left: 40px;
+}
+
+.full{
+    color: #b0ffff;
+    margin-left: 40px;
+}
+
+.signup{
+    background-color: #bfdf32;
+    margin-left: 40px;
+    width: 60%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
